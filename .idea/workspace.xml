@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa2ac980-e602-4d79-ab0d-26339a0d4293" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="mahdi bot" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wig3RZ72vcY8QxrV4s7gzuHJhY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DOM" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa2ac980-e602-4d79-ab0d-26339a0d4293" name="Default Changelist" comment="" />
+      <created>1579637699230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579637699230</updated>
+      <workItem from="1579637701687" duration="9589000" />
+      <workItem from="1579689769855" duration="704000" />
+      <workItem from="1579690582456" duration="8572000" />
+      <workItem from="1579703931380" duration="7839000" />
+      <workItem from="1579783967107" duration="10042000" />
+      <workItem from="1579802042555" duration="3584000" />
+      <workItem from="1579871573129" duration="1506000" />
+      <workItem from="1579972427827" duration="8179000" />
+      <workItem from="1580129218876" duration="17012000" />
+      <workItem from="1581132842120" duration="2743000" />
+      <workItem from="1581273320311" duration="7813000" />
+      <workItem from="1581398620980" duration="1076000" />
+      <workItem from="1581407672995" duration="2456000" />
+      <workItem from="1582986329699" duration="1843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579789141363">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="411" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1579789141363" />
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1582987802317">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1582987802317" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581278613714">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1581278613714" />
+  </component>
+</project>
